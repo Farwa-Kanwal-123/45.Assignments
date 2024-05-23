@@ -5,5 +5,4 @@
 let personName : string = "Quaid-e-Azam"
 let famousQuote : string = "There is no power on earth that can undo Pakistan."
 
-//console.log(`Quaid-e-Azam said,"${famousQuote}"`)
-console.log(`${personName} said,"${famousQuote}"`)
+console.log(`Quaid-e-Azam said,"${famousQuote}"`)
