@@ -2,6 +2,8 @@
 
 //Albert Einstein once said, “A person who never made a mistake never tried anything new.”
 
+let personName : string = "Quaid-e-Azam"
+let famousQuote : string = "There is no power on earth that can undo Pakistan."
 
-let famouQuote : string = "There is no power on earth that can undo Pakistan."
-console.log(`Quaid-e-Azam said,"${famouQuote}"`)
+//console.log(`Quaid-e-Azam said,"${famousQuote}"`)
+console.log(`${personName} said,"${famousQuote}"`)
