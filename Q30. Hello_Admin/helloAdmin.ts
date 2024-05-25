@@ -6,8 +6,6 @@ print a greeting to each user:
 status report?
 • Otherwise, print a generic greeting, such as Hello Eric, thank you for logging in again.*/
 
-import { log } from "console";
-
 
 
 //Make an array of five or more usernames, including the name 'admin'.
